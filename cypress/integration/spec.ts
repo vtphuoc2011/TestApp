@@ -11,7 +11,7 @@ describe('Test App Chicken', () => {
   beforeEach(() => {
     cy.visit('https://example.cypress.io/commands/actions');
   });
-
+  
   var email: string = 'abc@abc.com'
 
   // it('Input email address', () => {
